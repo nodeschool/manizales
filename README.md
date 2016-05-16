@@ -13,8 +13,12 @@ Realizaremos talleres, resolveremos retos de programación y compartiremos en co
 
 - **Fecha:** 21 de Mayo de 2016
 - **Lugar:** SENA Manizales, Kilometro 10 vía al Magdalena
-- **Mayores informes:** 315 832 4055, Juan Herrera
 - **Hora:** 9:00 am - 5:00 pm
+- **Mayores informes:** 315 832 4055, Juan Herrera
+- [**Página web del evento**](http://nodeschool.io/manizales/)
 
-***Se requiera previa inscripción en:**
-http://www.meetup.com/ManizalesDev/
+**Se requiere previa inscripción [aquí](http://www.meetup.com/ManizalesDev/)** (Cupos limitados)
+
+### Links de interés
+- [Nodeschool International Day](http://nodeschool.io/international-day/)
+- [Nodeschool](http://nodeschool.io/)
