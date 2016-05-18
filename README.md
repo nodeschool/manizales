@@ -23,5 +23,5 @@ Realizaremos talleres, resolveremos retos de programación y compartiremos en co
 - [Nodeschool International Day](http://nodeschool.io/international-day/)
 - [Nodeschool](http://nodeschool.io/)
 
-![Difusion](https://github.com/nodeschool/manizales/blob/master/difusion.png)
+![Difusion](https://raw.githubusercontent.com/nodeschool/manizales/a3fe99e8e7e472f7ed51bba4dbc24f3451f4d247/difusion.png)
 
